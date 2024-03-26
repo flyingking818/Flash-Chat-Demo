@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>328302249097-hlq2pf2f8gu2mojl9psrnpr5vkhvr032.apps.googleusercontent.com</string>
+	<string>895329760771-9mpfgc1vu78aa8fkb3d704ndvfd1qmaa.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.328302249097-hlq2pf2f8gu2mojl9psrnpr5vkhvr032</string>
+	<string>com.googleusercontent.apps.895329760771-9mpfgc1vu78aa8fkb3d704ndvfd1qmaa</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDQRP_5ik3nO7N3fCwZKdJdNaAQeSmLw5w</string>
+	<string>AIzaSyDyLOP_F7iESpHCj0L3WOOlFrnjoMb98cQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>328302249097</string>
+	<string>895329760771</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>co.appbrewery.Flash-Chat-iOS13</string>
+	<string>com.jeremyfeiwang.Flash-Chat</string>
 	<key>PROJECT_ID</key>
-	<string>flash-chat-ios13</string>
+	<string>flashchat-3f0c1</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flash-chat-ios13.appspot.com</string>
+	<string>flashchat-3f0c1.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:328302249097:ios:fd00a2b8396069ba3b7258</string>
-	<key>DATABASE_URL</key>
-	<string>https://flash-chat-ios13.firebaseio.com</string>
+	<string>1:895329760771:ios:b9c8662ada494408a24036</string>
 </dict>
 </plist>
