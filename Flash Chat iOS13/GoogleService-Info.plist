@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>895329760771-9mpfgc1vu78aa8fkb3d704ndvfd1qmaa.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.895329760771-9mpfgc1vu78aa8fkb3d704ndvfd1qmaa</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDyLOP_F7iESpHCj0L3WOOlFrnjoMb98cQ</string>
+	<string>AIzaSyDvrQg2RIagw2cb9VIrH5BNNMcb3V3I-W0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>895329760771</string>
+	<string>252065014782</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.jeremyfeiwang.Flash-Chat</string>
+	<string>com.jeremyfeiwang</string>
 	<key>PROJECT_ID</key>
-	<string>flashchat-3f0c1</string>
+	<string>flashchat2025</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flashchat-3f0c1.appspot.com</string>
+	<string>flashchat2025.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:895329760771:ios:b9c8662ada494408a24036</string>
+	<string>1:252065014782:ios:18a4e173ea91b3f14816af</string>
 </dict>
 </plist>
